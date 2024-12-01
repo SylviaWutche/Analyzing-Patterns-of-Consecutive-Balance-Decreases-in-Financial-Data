@@ -25,12 +25,7 @@ A SQL query was developed to:
 Results
 The analysis identified five periods of concern during the dataset timeframe:
 
-Start Date	End Date	Consecutive Days
-2024-07-17	2024-07-24	7
-2024-08-03	2024-08-07	5
-2024-08-23	2024-09-01	10
-2024-09-13	2024-09-19	7
-2024-10-02	2024-10-06	5
+![Result](https://github.com/SylviaWutche/Analyzing-Patterns-of-Consecutive-Balance-Decreases-in-Financial-Data/blob/main/result2.jpg)
 
 Visualization
 The following bar chart visualizes the periods of consecutive balance decreases:
