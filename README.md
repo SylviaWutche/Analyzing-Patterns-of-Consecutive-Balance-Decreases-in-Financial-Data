@@ -28,12 +28,16 @@ The analysis identified five periods of concern during the dataset timeframe:
 
 ![Result](https://github.com/SylviaWutche/Analyzing-Patterns-of-Consecutive-Balance-Decreases-in-Financial-Data/blob/main/result2.jpg)
 
-Visualization
+**Visualization**
+
 The following bar chart visualizes the periods of consecutive balance decreases:
 
-X-Axis: Periods (start and end dates) of balance decreases.
-Y-Axis: Number of consecutive days the balance decreased.
-*The longest streak was 10 days, from August 23 to September 1, 2024*.
+![Visual](https://github.com/SylviaWutche/Analyzing-Patterns-of-Consecutive-Balance-Decreases-in-Financial-Data/blob/main/Periods%20of%20Balance%20Decrease%20with%20Start%20and%20End%20Dates.jpeg)
+
+X-Axis: Periods (start and end dates) of balance decreases
+Y-Axis: Number of consecutive days the balance decreased
+
+*The longest streak was 10 days, from August 23 to September 1, 2024*
 
 ## Key Insight
 The analysis highlighted five distinct periods where account balances dropped for more than 4 consecutive days. The longest period lasted 10 days, signaling potential financial instability, overspending, or other inefficiencies.
