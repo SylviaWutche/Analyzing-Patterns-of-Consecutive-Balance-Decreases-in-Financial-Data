@@ -23,6 +23,7 @@ A SQL query was developed to:
 4. Filter periods where balances dropped for more than 4 consecutive days.
 
 Results
+
 The analysis identified five periods of concern during the dataset timeframe:
 
 ![Result](https://github.com/SylviaWutche/Analyzing-Patterns-of-Consecutive-Balance-Decreases-in-Financial-Data/blob/main/result2.jpg)
