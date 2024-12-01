@@ -1,0 +1,1 @@
+# Analyzing-Patterns-of-Consecutive-Balance-Decreases-in-Financial-Data
